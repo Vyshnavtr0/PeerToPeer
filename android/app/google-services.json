@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "850503448671",
+    "project_id": "peertopeer-2f207",
+    "storage_bucket": "peertopeer-2f207.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850503448671:android:8235cc1db89a5dcc5cc3ea",
+        "android_client_info": {
+          "package_name": "com.example.peertopeer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxDSNbDJxTjXp4PPepZEZbFWWdPXKBtYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
